@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Mosa");
+            Console.WriteLine("Hej från Mosa");
+            Console.WriteLine("Detta är version2");
         }
     }
 }
